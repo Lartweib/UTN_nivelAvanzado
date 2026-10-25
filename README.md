@@ -1,4 +1,7 @@
 # UTN CHAT
+
+> **Estado:** Proyecto final del curso Python Nivel Avanzado (UTN, 2021). Archivado, sin mantenimiento.
+
 Aplicación desarrollada para entrega final de Python nivel Avanzado
 Universidad UTN  
 
@@ -6,13 +9,13 @@ Universidad UTN
 Federico Daniel Ara  
 Marcelo Fabian Zurita  
 
-## Github Link
+## Repositorio original del equipo
 https://github.com/qsummon/utn_avanzado
 
 ## Descripción
 UTN_CHAT es una aplicacion desarrollada en python 3.x
 La aplicación permite "chatear" entre usuarios y cumple con las premisas
-requeridas (https://campus.utnba.centrodeelearning.com/mod/assign/view.php?id=1032059)
+requeridas por la consigna del curso (detalladas más abajo).
 
 La aplicación loguea actividad tanto en la consola(terminal) como archivo log (utn_chat_info.log)
 
